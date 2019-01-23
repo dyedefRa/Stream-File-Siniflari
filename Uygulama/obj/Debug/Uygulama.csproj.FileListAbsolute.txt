@@ -1,0 +1,12 @@
+C:\Users\Asus\source\repos\DOSYA-KLASOR ISLEMLERI\Uygulama\bin\Debug\Uygulama.exe.config
+C:\Users\Asus\source\repos\DOSYA-KLASOR ISLEMLERI\Uygulama\bin\Debug\Uygulama.exe
+C:\Users\Asus\source\repos\DOSYA-KLASOR ISLEMLERI\Uygulama\bin\Debug\Uygulama.pdb
+C:\Users\Asus\source\repos\DOSYA-KLASOR ISLEMLERI\Uygulama\bin\Debug\FakeData.dll
+C:\Users\Asus\source\repos\DOSYA-KLASOR ISLEMLERI\Uygulama\bin\Debug\FakeData.pdb
+C:\Users\Asus\source\repos\DOSYA-KLASOR ISLEMLERI\Uygulama\obj\Debug\Uygulama.csprojResolveAssemblyReference.cache
+C:\Users\Asus\source\repos\DOSYA-KLASOR ISLEMLERI\Uygulama\obj\Debug\Uygulama.Form1.resources
+C:\Users\Asus\source\repos\DOSYA-KLASOR ISLEMLERI\Uygulama\obj\Debug\Uygulama.Properties.Resources.resources
+C:\Users\Asus\source\repos\DOSYA-KLASOR ISLEMLERI\Uygulama\obj\Debug\Uygulama.csproj.GenerateResource.Cache
+C:\Users\Asus\source\repos\DOSYA-KLASOR ISLEMLERI\Uygulama\obj\Debug\Uygulama.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\DOSYA-KLASOR ISLEMLERI\Uygulama\obj\Debug\Uygulama.exe
+C:\Users\Asus\source\repos\DOSYA-KLASOR ISLEMLERI\Uygulama\obj\Debug\Uygulama.pdb

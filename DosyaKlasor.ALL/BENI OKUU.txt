@@ -1,0 +1,50 @@
+﻿01-Dosya Oluşturma ve Exists Metodu
+
+02-GetCurrentDirectory
+SetCurrentDirectory
+metodlarıyla çalışan exeyi getleme ve setleme
+
+03-DirectoryInfo Sınıfı (Statik değil) ve Dosya Özellikleri
+--Alt Klasorune Ust Klasorune erişebiliyoruz
+--Dosya ekleyebiliyoruz
+--Dosyaların özelliklerine olş. tar. , son erişim tar. vs her özelliklerine erişebiliyoruz.
+
+04-KLASOR TAŞIMA OLAYLARI
+Directory.Move("TaşınacakYol","TaşıyacagınYerinYolu");
+--Önemli olan  2. Parametrenin sonuna taşıdığımız dosyanın yeni adını bildirmek yani \Tasindi
+1 parametre => ...\Tasinacak
+2 parametre => ...\Tasinacak  yada  ...\Tasindi
+
+05-Directory.Delete(..,..) ile silme Olayi
+.Delete(path,true) ile içinde veri varsa bile silsin diyoruz. 
+
+06-SISTEM SURUCLERINI ALMAK ( D:/ c:// vs)
+=> Directory.GetLogicalDrives()
+
+07-Directory.GetFiles(path);
+string [] döner
+
+
+---------------------------------------------------------------
+
+
+F01 - File.Create(yol);
+ile direk oraya bir dosya ekleyebılıyosun
+"D:\SAS\AltKlasorunAdıBuOlsun\Tasinacak\yeni.txt" gibi..
+ve FileStream dönderir..
+eger alırsak bir nesneye  o dosya açık kalır içine yazabılırız.
+
+
+F02 - STREAM WRITER ile dosyanın ıcıne yazma olayları..
+StreamWriter sw = new StreamWriter("yol");
+sw.WriteLine("fasfsa");
+
+
+F03- STREAMREADER ile dosya okuma
+var sr= new StreamReader();
+string deger=sr.ReadToEnd();
+sr.Close();
+
+F04 -Taşıma olayı aynı..
+
+F05 - Copy

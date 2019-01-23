@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\DOSYA-KLASOR ISLEMLERI\DosyaKlasor.ALL\bin\Debug\DosyaKlasor.ALL.exe.config
+C:\Users\Asus\source\repos\DOSYA-KLASOR ISLEMLERI\DosyaKlasor.ALL\bin\Debug\DosyaKlasor.ALL.exe
+C:\Users\Asus\source\repos\DOSYA-KLASOR ISLEMLERI\DosyaKlasor.ALL\bin\Debug\DosyaKlasor.ALL.pdb
+C:\Users\Asus\source\repos\DOSYA-KLASOR ISLEMLERI\DosyaKlasor.ALL\obj\Debug\DosyaKlasor.ALL.csprojResolveAssemblyReference.cache
+C:\Users\Asus\source\repos\DOSYA-KLASOR ISLEMLERI\DosyaKlasor.ALL\obj\Debug\DosyaKlasor.ALL.Form1.resources
+C:\Users\Asus\source\repos\DOSYA-KLASOR ISLEMLERI\DosyaKlasor.ALL\obj\Debug\DosyaKlasor.ALL.Properties.Resources.resources
+C:\Users\Asus\source\repos\DOSYA-KLASOR ISLEMLERI\DosyaKlasor.ALL\obj\Debug\DosyaKlasor.ALL.csproj.GenerateResource.Cache
+C:\Users\Asus\source\repos\DOSYA-KLASOR ISLEMLERI\DosyaKlasor.ALL\obj\Debug\DosyaKlasor.ALL.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\DOSYA-KLASOR ISLEMLERI\DosyaKlasor.ALL\obj\Debug\DosyaKlasor.ALL.exe
+C:\Users\Asus\source\repos\DOSYA-KLASOR ISLEMLERI\DosyaKlasor.ALL\obj\Debug\DosyaKlasor.ALL.pdb
